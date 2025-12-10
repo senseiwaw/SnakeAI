@@ -4,7 +4,7 @@ My initial idea was to learn basics of ML without taking any specific classes si
 So my only instructors in this learning project is : Gemini 3 Pro
 
 I chose do it like that in order to get my hands dirty. For most courses in ML on Coursera are passive learning not active !
-While, using Gemini 3 Pro is much more fun for me,
+While, using Gemini 3 Pro is much more fun for me, it's like a GUIDE !
 Since it's my first project he helped me started with my goal of solving snake from scratch without using any module except numpy.
 You can find the different steps I go through in the file : Projet_SnakeAI_with_Numpy.py
 
