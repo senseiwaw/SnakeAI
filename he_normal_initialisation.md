@@ -1,10 +1,20 @@
+How to chose a set of **initial parameters** of the Neural Network ?
+
+The activation function we chose in our model is the ReLU (Rectified Linear Unit) function. 
+The Normal He Initialization avoids the vanishing or exploding gradient problem that can occur during the training of deep neural networks.
+$n$ being the dimension of the input layer of neurons : 
+
+$\displaystyle W \leadsto \mathcal{N}(0,\sqrt{\frac{2}{n}})$
+
+further reading here: https://www.geeksforgeeks.org/deep-learning/kaiming-initialization-in-deep-learning/
+```python
 # Architecture
 n_x = 11    # Entrée
 n_h1 = 256  # Cachée 1
 n_h2 = 128  # Cachée 2 (On réduit souvent la taille au fur et à mesure)
 n_y = 3     # Sortie
 #la fonction non linéaire du modèle est ReLU 
-#on procède par initialisation de type Kaiming He (cf : https://www.geeksforgeeks.org/deep-learning/kaiming-initialization-in-deep-learning/ )
+#on procède par initialisation de type Kaiming He 
 #ici c'est un exemple à deux couches
 
 # --- W1 connecte l'Entrée (11) à Cachée 1 (256) ---
@@ -21,3 +31,4 @@ B2 = np.zeros((n_h2, 1))
 # On divise par n_h2 (128) car 128 fils arrivent
 W3 = np.random.randn(n_y, n_h2) * np.sqrt(2 / n_h2)
 B3 = np.zeros((n_y, 1))
+```
