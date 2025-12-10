@@ -17,3 +17,4 @@ Basically : snakeAI.py contains the whole file BUT the other python files are sl
 I want to improve my general skills in python and ML in order to make more complex stuff progessively and more autonmously.
 
 There might be lots of mistakes which I would be very sorry of ! It's very expermiental for the moment, and I may include my own thoughts, I'm open to any recommendation, don't hesitate to share !
+In terms of the language it's a mix of french and english even if I try to write only in english !
