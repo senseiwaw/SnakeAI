@@ -1,4 +1,4 @@
-How to chose a set of **initial parameters** of the Neural Network ?
+How to chose a set of **initial parameters** for the Neural Network ?
 
 The activation function we chose in our model is the ReLU (Rectified Linear Unit) function. 
 The Normal He Initialization avoids the vanishing or exploding gradient problem that can occur during the training of deep neural networks.
