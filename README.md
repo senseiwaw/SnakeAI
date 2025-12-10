@@ -1,4 +1,4 @@
-A Machine Learning Model playing Snake & a Graphical Interface using Arcade
+Machine Learning Model playing Snake & Graphical Interface using Arcade
 
 - Neural Network
 - Bellman Equation
