@@ -8,5 +8,5 @@ A Machine Learning Model playing Snake & a Graphical Interface using Arcade
 
 
 
-Why I will use Gemini 3 Pro (le goattt) : a perfect tool to provide guidance for a beginner like me.
+Why will I use Gemini 3 Pro (le goattt) to make progress towards the goal : a perfect tool to provide guidance for a beginner like me.
 
