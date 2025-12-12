@@ -1,0 +1,6 @@
+matplotlib.pyplot
+arcade
+os
+python (3.11,3.12 or 3.13)
+numpy
+collections
