@@ -1,23 +1,32 @@
-Machine Learning Model playing Arcade Games & Graphical Interface using Arcade in Python
+Reinforcement ML Model using `pytorch` & Graphical Interface using `arcade`
+
 - **Architecture of the model**
-- *Neural Networks*
-- *Bellman Equation*
-- *Optimization with Forward and Backward Propagation*
+  - Deep Q Network
+  - Neural Networks
+  - Bellman Equation
+  - Optimization with Forward and Backward Propagation
 
-- **Arcade**
+- **Arcade games**
+  - Snake
+  - Pong
 
-Comparaison between architectures trained by **reinforcement learning**
+Comparaison between architectures trained by **reinforcement learning** : *feature* based RL & *pixel*-based RL
 
-1) *Partially observable Markov decision process*
-- *input = local vision*
-- *experience replay*
+- *feature*
+  
+  *Partially observable Markov decision process*
+    - *input = local vision*
+    - *experience replay*
 
-2) *Markov decision process*
-- *input = the entire grid*
+  *Markov decision process*
+    - *input* = the grid represented as a matrix containing specified objects
+    - Deep Neural Networks (2 layers)
 
-  *2a)* **Deep Neural Networks (2 layers)**
+- *pixel*
 
-  *2b)* **Convolutional Neural Networks**
+  *CNN*
+    - *input* = the grid represented as an image
+    - Convolutional Neural Networks 
 
 Why Gemini 3 Pro (le goattt) will be used to make progress towards the goal : a tool useful to provide guidance for a *beginner* like me.
 
