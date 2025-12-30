@@ -1,4 +1,4 @@
-Reinforcement ML Model using `pytorch` & Graphical Interface using `arcade`
+My 1st project : Reinforcement ML Model using `pytorch` & Graphical Interface using `arcade`
 
 - **Architecture of the model**
   - Deep Q Network
@@ -27,8 +27,6 @@ Comparaison between architectures trained by **reinforcement learning** : *featu
   *CNN*
     - *input* = the grid represented as an image
     - Convolutional Neural Networks 
-
-Why Gemini 3 Pro (le goattt) will be used to make progress towards the goal : a tool useful to provide guidance for a *beginner* like me.
 
 .md files contains Q&A showing each step towards the goal.
 
